@@ -1,6 +1,6 @@
 # Employee Attendance Analysis Dashboard
 
-###📊 Project Overview
+📊 Project Overview
 A Power BI dashboard designed to track and analyze employee attendance. It provides a clear view of working days, attendance percentage, present/absent/leave status, and daily attendance trends through interactive visuals and employee-level details.
 
 🛠️ Tech Stacks - Tools & Technologies 
