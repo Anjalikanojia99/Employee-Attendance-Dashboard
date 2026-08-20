@@ -33,4 +33,4 @@ Preparing the data for analysis and visualization
 🔎 Interactive Employee & Month Filters
 📋 Calendar-based Attendance View
 
-Dashboard Preview - 
+📸 Dashboard Preview - https://github.com/Anjalikanojia99/Employee-Attendance-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png
